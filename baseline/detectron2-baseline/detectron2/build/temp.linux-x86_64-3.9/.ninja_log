@@ -1,0 +1,6 @@
+# ninja log v5
+4	5274	1700149968262063419	/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/build/temp.linux-x86_64-3.9/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	8938a75651250782
+4	5360	1700149968342063416	/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/build/temp.linux-x86_64-3.9/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	5925ba022d570809
+4	5787	1700149968778063401	/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/build/temp.linux-x86_64-3.9/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	83cd7403be07f768
+3	6737	1700149969682063368	/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/build/temp.linux-x86_64-3.9/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	cc16a31ad02886c9
+5	17931	1700149980910062967	/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/build/temp.linux-x86_64-3.9/ai-data/chest/kjs2109/baseline/detectron2-baseline/detectron2/detectron2/layers/csrc/vision.o	ab5aa45cddbb9825
