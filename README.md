@@ -13,6 +13,7 @@
 ### 주요 기능
 - 모델 학습 - [train.py](./semseg-baseline/train.py)
 - 모델 평가 - [evaluation.py](./semseg-evaluation.py)
+- Instance segmentation 모델 학습 및 평가 - [detectron2-baseline](./detectron2-basellin)
 - pseudo label 생성 - [pseudo_label_creator.py](./semseg-baseline/pseudo_label_creator.py)
 - experiment tracking - [wandb](https://github.com/kjs2109/Pseudo_Labeling_POC/blob/8b482dbf0100e0217290eb830792819b54ddcf98/semseg-baseline/train.py#L228)
 - [DDP (distributed data parallel)](https://github.com/kjs2109/Pseudo_Labeling_POC/blob/8b482dbf0100e0217290eb830792819b54ddcf98/semseg-baseline/train.py#L215) 
