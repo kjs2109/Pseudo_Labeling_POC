@@ -5,7 +5,9 @@
 
 ## 프로젝트 소개
 * Self-training 적용과 실험 관리를 위한 baseline 코드
+
 ![training_framework](./src/training_framework_fig.JPG)
+<div align="center">figure1. Training Framework</div>
 
 
 ### 주요 기능
@@ -27,3 +29,4 @@
 
 ### 사용법
 ![project_architecture](./src/project_architecture_fig.JPG) 
+<div align="center">figure2. Project Architecture</div> 
