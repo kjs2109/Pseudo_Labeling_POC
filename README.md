@@ -1,5 +1,5 @@
 # Pseudo Labeling POC
-[연구 리포트](/src/AI연구실_연구세미나_pseudo-labeling_연구결과_240126_김주성.pdf)
+[연구 리포트](src/AI연구실_연구세미나_Pseudo-labeling_연구결과_240126_김주성.pdf)
 ![abstact](./src/abstract.JPG) 
 
 
