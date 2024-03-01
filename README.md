@@ -19,7 +19,7 @@
 - [DDP (distributed data parallel)](https://github.com/kjs2109/Pseudo_Labeling_POC/blob/8b482dbf0100e0217290eb830792819b54ddcf98/semseg-baseline/train.py#L215) 
 - [Copy-Paste](https://github.com/kjs2109/Pseudo_Labeling_POC/blob/8b482dbf0100e0217290eb830792819b54ddcf98/semseg-baseline/dataset.py#L153)
 - [RandAugment](https://github.com/kjs2109/Pseudo_Labeling_POC/blob/8b482dbf0100e0217290eb830792819b54ddcf98/semseg-baseline/utils/augmentation.py#L6)
-- [Weighted-sfot Ensemble](https://github.com/kjs2109/Pseudo_Labeling_POC/blob/8b482dbf0100e0217290eb830792819b54ddcf98/semseg-baseline/inference/inference_model.py#L7)
+- [Weighted-soft Ensemble](https://github.com/kjs2109/Pseudo_Labeling_POC/blob/8b482dbf0100e0217290eb830792819b54ddcf98/semseg-baseline/inference/inference_model.py#L7)
 
 
 ### 개발 환경
